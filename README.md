@@ -1,6 +1,6 @@
 # Opinion-Vote
 
-This repository contains the code and data used in the experiments of our ICDE 2023 paper titled _"Voting-based Opinion Maximization"_.
+This repository contains the code and data used in the experiments of the ICDE 2023 paper titled _"Voting-based Opinion Maximization"_ by Arkaprava Saha, Xiangyu Ke, Arijit Khan and Laks V.S. Lakshmanan.
 
 ## Data
 
